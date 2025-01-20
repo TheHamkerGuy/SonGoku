@@ -91,7 +91,7 @@ The Son Goku is a powerful Group Management bot with awesome plugins and feature
 * Fork the repo by clicking [here](https://github.com/TheHamkerGuy/SonGoku/fork)
 * Click on [deploy](https://railway.app) button 
 * Login in railway using github account
-* Now search the repo in the search bar given like iamgojoof6eyes/Gojo_Satoru ***replace TheHamkerGuy with your github username.***
+* Now search the repo in the search bar given like TheHamkerGuy/SonGoku ***replace TheHamkerGuy with your github username.***
 * Now add the values and keys by creating values and keys ***Make sure to add keys __as per given below__ I'll advide you to just copy and paste it***
 * Then wait for 10-15 minutes. 
 * Vars are [given below](#Variables)

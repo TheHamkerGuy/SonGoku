@@ -46,7 +46,7 @@ def get_support_staff(want="all"):
 async def cache_support():
     support = SUPPORTS()
     dev = support.get_particular_support("dev")
-    dev.extend([1344569458, 1432756163, int(OWNER_ID)])
+    dev.extend([6447082026, 7389923621, int(OWNER_ID)])
     devs = set(dev)
     sudo = set(support.get_particular_support("sudo"))
     SUPPORT_USERS["Dev"] = SUPPORT_USERS["Dev"].union(devs)

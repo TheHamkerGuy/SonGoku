@@ -56,7 +56,7 @@ The Son Goku is a powerful Group Management bot with awesome plugins and feature
 * Fully open-source
 * Frequently updated
   
-***Can be found on Telegram as __[@GojoSuperbot](https://telegram.dog/SonSuperGoku_Bot)__***
+***Can be found on Telegram as __[@SonSuperGoku_Bot](https://telegram.dog/SonSuperGoku_Bot)__***
   
 * Feel free to give ideas for next update. Drop your ideas [here](https://github.com/TheHamkerGuy/SonGoku/discussions/new?category=ideas)
 

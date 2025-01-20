@@ -19,6 +19,6 @@ All versions are working fine; however, I recommend deploying the latest version
 
 ## Reporting a Vulnerability
 
-* If you find any vulnerability don't hesitate to get in touch with me via email iamgojoof6eyes@gmail.com
-* If you want instant reply contact me on telegram [@iamgojoof6eyes](https://t.me/iamgojoof6eyes) is my username.
-* Or just open a [issue](https://github.com/Gojo-Bots/Gojo_Satoru/issues/new) in issues section.
+* If you find any vulnerability don't hesitate to get in touch with me via email thehamkerguy@gmail.com
+* If you want instant reply contact me on telegram [@TheHamkerGuy](https://t.me/TheHamkerGuy) is my username.
+* Or just open a [issue](https://github.com/TheHamkerGuy/TheHamkerGuy/issues/new) in issues section.

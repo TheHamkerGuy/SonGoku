@@ -27,7 +27,7 @@ file_handler = FileHandler(filename=LOGFILE)
 stdout_handler = StreamHandler(stdout)
 
 basicConfig(
-    format="%(asctime)s - [Gojo_Satoru] - %(levelname)s - %(message)s",
+    format="%(asctime)s - [SonGoku] - %(levelname)s - %(message)s",
     level=INFO,
     handlers=[file_handler, stdout_handler],
 )
@@ -69,12 +69,12 @@ PYTHON_VERSION = python_version()
 PYROGRAM_VERSION = pyrogram.__version__
 
 LOGGER.info("------------------------")
-LOGGER.info("|      Gojo_Satoru      |")
+LOGGER.info("|      Son Goku        |")
 LOGGER.info("------------------------")
 LOGGER.info(f"Version: {VERSION}")
 LOGGER.info(f"Owner: {str(Config.OWNER_ID)}")
 LOGGER.info(f"Time zone set to {Config.TIME_ZONE}")
-LOGGER.info("Source Code: https://github.com/Gojo-Bots/Gojo_Satoru\n")
+LOGGER.info("Source Code: https://github.com/TheHamkerGuy/SonGoku\n")
 LOGGER.info("Checking lyrics genius api...")
 
 # API based clients

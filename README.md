@@ -1,32 +1,28 @@
 <h1 align="center">
-  <b> Gojo_Satoru </b>
-<!---</h1>
-<h1 align="center"><img src="https://media.giphy.com/media/GL42TduR8AkNq1xRog/giphy.gif" /></h1>--->
-
-<!---<h1 align="center"><img src="https://te.legra.ph/file/4bf3b88115068d41efadd.jpg" /></h1>--->
+  <b> Son Goku </b>
   
-<h1 align="center"><img src="./extras/gojo_satoru__psd__by_at_yomiko_deyaec4-pre.jpg" /></h1>
+<h1 align="center"><img src="https://telegra.ph/file/bd5edaffe9911b066918e-21d2841b292202dd7c.jpg" /></h1>
 
 
 
 ------
 
 
-[![GitHub forks](https://img.shields.io/github/forks/Gojo-Bots/Gojo_Satoru?style=social)](https://github.com/Gojo-Bots/Gojo_Satoru/fork)
-![GitHub Repo stars](https://img.shields.io/github/stars/Gojo-Bots/Gojo_Satoru?style=social)
+[![GitHub forks](https://img.shields.io/github/forks/TheHamkerGuy/SonGoku?style=social)](https://github.com/TheHamkerGuy/SonGoku/fork)
+![GitHub Repo stars](https://img.shields.io/github/stars/TheHamkerGuy/SonGoku?style=social)
 
-![Repo Size](https://img.shields.io/github/repo-size/Gojo-Bots/Gojo_Satoru?&style=social&logo=github)
+![Repo Size](https://img.shields.io/github/repo-size/TheHamkerGuy/SonGoku?&style=social&logo=github)
 ![Branch](https://img.shields.io/badge/Branch-Main-white?&style=social&logo=github)
 
 ![Maintenance](https://img.shields.io/badge/Maintained%3F-Yes-white?&style=social&logo=hugo)
-![GitHub license](https://img.shields.io/github/license/Gojo-Bots/Gojo_Satoru?&style=social&logo=github)
+![GitHub license](https://img.shields.io/github/license/TheHamkerGuy/SonGoku?&style=social&logo=github)
 
 ![Python](https://img.shields.io/badge/Python-v3.10-white?style=social&logo=python)
-![GitHub language count](https://img.shields.io/github/languages/count/Gojo-Bots/Gojo_Satoru?&style=social&logo=hyper)
+![GitHub language count](https://img.shields.io/github/languages/count/TheHamkerGuy/SonGoku?&style=social&logo=hyper)
 
 
 
-**A python and [pyrogram](https://github.com/Gojo-Bots/pyrogram) based group management bot for telegram.
+**A python and [pyrogram](https://github.com/TheHamkerGuy/pyrogram) based group management bot for telegram.
 If you like the bot make sure to give a ⭐ __star__ ⭐ to this respository and feel free to updating and sending pull requests**
 
 
@@ -48,9 +44,9 @@ Mainly:
   <h1 align="center"><img src="./extras/original.gif" /></h1>
   
   
-The Gojo Satoru is a powerful Group Management bot with awesome plugins and features.
+The Son Goku is a powerful Group Management bot with awesome plugins and features.
  
-  **If you counter any problem or face any bugs for help join 🌟 [ɢօʝօ ɮօȶֆ](https://telegram.dog/gojo_bots_network) 🌟 and then join the gc and ask your problem.**
+  **If you counter any problem or face any bugs for help join 🌟 [Dʀᴀɢᴏɴ Bᴏᴛᴢ](https://telegram.dog/Dragon_Botz) 🌟 and then join the gc and ask your problem.**
 
 ## Features
   
@@ -60,9 +56,9 @@ The Gojo Satoru is a powerful Group Management bot with awesome plugins and feat
 * Fully open-source
 * Frequently updated
   
-***Can be found on Telegram as __[@GojoSuperbot](https://telegram.dog/GojoSuperbot)__***
+***Can be found on Telegram as __[@GojoSuperbot](https://telegram.dog/SonSuperGoku_Bot)__***
   
-* Feel free to give ideas for next update. Drop your ideas [here](https://github.com/Gojo-Bots/Gojo_Satoru/discussions/new?category=ideas)
+* Feel free to give ideas for next update. Drop your ideas [here](https://github.com/TheHamkerGuy/SonGoku/discussions/new?category=ideas)
 
 -------
 
@@ -84,7 +80,7 @@ The Gojo Satoru is a powerful Group Management bot with awesome plugins and feat
 
 * Just click on the button it will redirect you to Heroku website and deploy your bot there....enjoy 😉
 
-[![DEPLOY](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Gojo-Bots/Gojo_Satoru.git)
+[![DEPLOY](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/TheHamkerGuy/SonGoku.git)
 
 -------
 
@@ -92,10 +88,10 @@ The Gojo Satoru is a powerful Group Management bot with awesome plugins and feat
 [![DEPLOY](https://railway.app/button.svg)](https://railway.app)
 ### How To Deploy On Railway
 *  **Make Sure You have an github account which is minimum 30 days old.**
-* Fork the repo by clicking [here](https://github.com/Gojo-Bots/Gojo_Satoru/fork)
+* Fork the repo by clicking [here](https://github.com/TheHamkerGuy/SonGoku/fork)
 * Click on [deploy](https://railway.app) button 
 * Login in railway using github account
-* Now search the repo in the search bar given like iamgojoof6eyes/Gojo_Satoru ***replace iamgojoof6eyes with your github username.***
+* Now search the repo in the search bar given like iamgojoof6eyes/Gojo_Satoru ***replace TheHamkerGuy with your github username.***
 * Now add the values and keys by creating values and keys ***Make sure to add keys __as per given below__ I'll advide you to just copy and paste it***
 * Then wait for 10-15 minutes. 
 * Vars are [given below](#Variables)
@@ -104,12 +100,12 @@ The Gojo Satoru is a powerful Group Management bot with awesome plugins and feat
 --------  
   
 ## Deploy To Okteto
-  [![Develop on Okteto](https://okteto.com/develop-okteto.svg)](https://cloud.okteto.com/deploy?repository=https://github.com/Gojo-Bots/Gojo_Satoru)
+  [![Develop on Okteto](https://okteto.com/develop-okteto.svg)](https://cloud.okteto.com/deploy?repository=https://github.com/TheHamkerGuy/SonGoku)
 
 ### How To Deploy On Okteto
   * **Make sure you have an github account.**
-  * [Fork](https://github.com/Gojo-Bots/Gojo_Satoru/fork) the repo and give a star to repo
-  * Click on [deploy](https://cloud.okteto.com/deploy?repository=https://github.com/Gojo-Bots/Gojo_Satoru) button provided above...
+  * [Fork](https://github.com/TheHamkerGuy/SonGoku/fork) the repo and give a star to repo
+  * Click on [deploy](https://cloud.okteto.com/deploy?repository=https://github.com/TheHamkerGuy/SonGoku) button provided above...
   * Login using github.
   * Fill the values
   * Then wait for 10-15 minutes. 
@@ -125,7 +121,7 @@ The Gojo Satoru is a powerful Group Management bot with awesome plugins and feat
 
 * Install Python v3.7 or later from Python's Website
 * Install virtualenv using `python3 -m pip -U install virtualenv`.
-* Fork or Clone the project using `git clone https://github.com/Gojo-Bots/Gojo_Satoru.git`
+* Fork or Clone the project using `git clone https://github.com/TheHamkerGuy/SonGoku.git`
 * Create Virtualenv using: `virtualenv venv`
 * Install the requirements using `python3 -m pip install -r requirements.txt`
 * Fill in all the variables in the Development class, not the Config class. Sudo, Dev, Whitelist users are optional!!
@@ -137,30 +133,14 @@ The Gojo Satoru is a powerful Group Management bot with awesome plugins and feat
 
 * Update apt by using `sudo apt update && sudo apt upgrade -y`
 * Now install required packages by `sudo apt install --no-install-recommends -y python3-lxml python3-psycopg2 libpq-dev libcurl4-openssl-dev libxml2-dev libxslt1-dev python3-pip python3-sqlalchemy openssl wget curl git libffi-dev libjpeg-dev libwebp-dev python3 python3-dev pv tree mediainfo nano nodejs libreadline-dev libyaml-dev gcc zlib1g ffmpeg libssl-dev libgconf-2-4 libxi6 unzip libopus0 libopus-dev python3-virtualenv tmux libmagickwand-dev`
-* Clone the GitHub repo by `https://github.com/Gojo-Bots/Gojo_Satoru`
-* Now make it the current directory by `cd Gojo_Satoru`
+* Clone the GitHub repo by `https://github.com/TheHamkerGuy/SonGoku`
+* Now make it the current directory by `cd SonGoku`
 * Edit the vars file by `nano Powers/vars.py`
 * Fill in all the variables in the Development class, not the Config class. Sudo, Dev, and Whitelist users are optional!!
 * Create and activate a new virtualenv by `virtualenv venv source venv/bin/activate`
 * Install requirements to run the bot by `pip3 install -r requirements.txt`
 * After requirements are installed, start the bot by `python3 -m Powers`
 * Exit the window `CTRL + B` then `D`
-
-<!---### Using docker
-
-* Clone the repo and enter into it
-* Install [Docker](https://www.docker.com/)
-* Fill in the `sample.env` file and rename it to `main.env`.
-* Now follow the steps:
-  To build the docker image **(The dot '.' at last is necessary!)**:
-```
-docker build -t gojo_gojo_satoru:latest .
-```
-  To run copy and paste the following command
-```
-docker run --env-file main.env gojo_gojo_satoru
-```
-If all works well, the bot should send a message to the MESSAGE_DUMP Group!--->
 
 ## Variables
 <details><summary><h3>List of all mandatory variables</h3></summary>
@@ -220,7 +200,7 @@ If all works well, the bot should send a message to the MESSAGE_DUMP Group!--->
 ⚠️ **Note:** In case you are passing more than one value separate them using whitespace (space) for example If I want to pass more than one PREFIX_HANDLER
 I'll pass it like `'/' '.' '!'` this.
 
-YOU CAN ALSO HAVE A LOOK AT [VARS FILE](https://github.com/Gojo-Bots/Gojo_Satoru/blob/main/Powers/vars.py)
+YOU CAN ALSO HAVE A LOOK AT [VARS FILE](https://github.com/TheHamkerGuy/SonGoku/blob/main/Powers/vars.py)
 
 </details>
 
@@ -228,7 +208,7 @@ YOU CAN ALSO HAVE A LOOK AT [VARS FILE](https://github.com/Gojo-Bots/Gojo_Satoru
   
 # Adding your own plugin
 
-To add your very own plugin just use the format given below and go through the [utils](https://github.com/Gojo-Bots/Gojo_Satoru/blob/master/Powers/utils) and [custom_filters](https://github.com/Gojo-Bots/Gojo_Satoru/blob/master/Powers/utils/custom_filters.py)
+To add your very own plugin just use the format given below and go through the [utils](https://github.com/TheHamkerGuy/SonGoku/blob/master/Powers/utils) and [custom_filters](https://github.com/TheHamkerGuy/SonGoku/blob/master/Powers/utils/custom_filters.py)
   
   ```python
   from traceback import format_exc
@@ -259,14 +239,14 @@ To add your very own plugin just use the format given below and go through the [
   
  
   ```
-  # Add plugins in [plugin](https://github.com/Gojo-Bots/Gojo_Satoru/tree/master/Powers/plugins) section
+  # Add plugins in [plugin](https://github.com/TheHamkerGuy/SonGoku/tree/master/Powers/plugins) section
   ##  **Note** : Don't use <> this bracket while writing the code...
       
 --------  
       
 # Contributors
       
-[![Contributors](https://contrib.rocks/image?repo=Gojo-Bots/Gojo_Satoru)](https://github.com/Gojo-Bots/Gojo_Satoru/graphs/contributors)
+[![Contributors](https://contrib.rocks/image?repo=TheHamkerGuy/SonGoku)](https://github.com/TheHamkerGuy/SonGoku/graphs/contributors)
 
 
 ---------
@@ -293,11 +273,8 @@ Some special thanks to the person/repo who/which helped and motivated me to crea
 
 ---------
 
-# Powered by [ɢօʝօ ɮօȶֆ](https://github.com/Gojo-Bots)
-
-
 <p align='left'>
-  <a href="https://github.com/Gojo-Bots"><img src="https://artfiles.alphacoders.com/160/160160.jpeg" alt="Gojo Bots"></a></br></br>
+  <a href="https://github.com/TheHamkerGuy"><img src="https://artfiles.alphacoders.com/160/160160.jpeg" alt="Son Goku"></a></br></br>
    
 </p>
 
